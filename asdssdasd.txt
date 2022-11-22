@@ -1,0 +1,4 @@
+https://www.javatpoint.com/java-hashmap
+https://www.javatpoint.com/java-vector
+https://www.mygreatlearning.com/blog/hashmap-in-java/
+https://www.javatpoint.com/working-of-hashmap-in-java
